@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
+* {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.card-listing {
+  border: none !important;
+}
+.card-body-listing {
+  padding: 10px 0 !important;
+}
+.card-img-top {
+  width: 100% !important;
+  height: 18rem;
+}
+.card-link {
+  text-decoration: none;
+  color: black;
+}
+.btn-danger {
+  background-color: #b20506 !important;
+}
+.text-danger {
+  color: #b20506 !important;
+}
